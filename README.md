@@ -3,3 +3,4 @@
 ### 기말 포스터세션 프로젝트 (Team Whisky)
 * Donghyun Kim, Donghyuk Lee, Yeonjae Park
 
+<img width="5334" height="2450" alt="image" src="https://github.com/user-attachments/assets/ffd231f5-6308-499a-9d55-3226891e3f3c" />
