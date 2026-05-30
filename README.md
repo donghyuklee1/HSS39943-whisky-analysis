@@ -5,8 +5,6 @@
 
 <img width="5428" height="2450" alt="image" src="https://github.com/user-attachments/assets/614a62cd-59db-4475-abb0-80f6595fdaeb" />
 
-<img width="2273" height="2799" alt="image" src="https://github.com/user-attachments/assets/5ea4040e-b731-4cb4-9cfc-a65befe1e1bb" />
-
 <img width="5159" height="4560" alt="image" src="https://github.com/user-attachments/assets/96666ca4-8a7e-46ae-a966-540a67dc9305" />
 
 
